@@ -1,0 +1,10 @@
+.DV{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  border-radius: 50px;
+}
+body{
+
+  background-color:wheat;
+}
